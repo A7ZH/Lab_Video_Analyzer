@@ -8,7 +8,7 @@ This project aims to create an analyzer AI and toolkit that when observes a "two
 
 ## Motivation:
 
-Search project of US National Academy of Science https://www.pnas.org/content/111/Supplement_1/4653
+Research project of US National Academy of Science https://www.pnas.org/content/111/Supplement_1/4653
 
 A Study of the Motion of Particles in Superfluid Helium-4 https://link.springer.com/content/pdf/10.1007/s10909-010-0237-9.pdf 
 

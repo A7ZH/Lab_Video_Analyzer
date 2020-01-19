@@ -3,7 +3,7 @@ import numpy as np
 from scipy.cluster.vq import kmeans2, whiten
 import matplotlib.pyplot as plt
 
-Video_Dir = './wave_2_enhanced_1.avi'
+Video_Dir = './wave_denoised.avi'
 Video_Data = skvideo.io.vread(Video_Dir)
 [Num_Frms, H, W, Pix_Dim] = Video_Data.shape
 
